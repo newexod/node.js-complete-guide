@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/newexod/node.js-complete-guide/issues"
   },
-  "homepage": "https://github.com/newexod/node.js-complete-guide#readme"
+  "homepage": "https://github.com/newexod/node.js-complete-guide#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
 }
