@@ -19,5 +19,8 @@
   "homepage": "https://github.com/newexod/node.js-complete-guide#readme",
   "devDependencies": {
     "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
