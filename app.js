@@ -4,6 +4,9 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
+app.set('view engine', 'pug');
+app.set('views', 'views'); // 2-ой views название папки
+
 const adminData = require('./routes/admin');
 const shopRoutes = require('./routes/shop');
 
