@@ -1,1 +1,1 @@
-[{"id": "123", "title":"A Book","imageUrl":"https://requestreduce.org/images/book-image-9.jpg","description":"This is an awesome book!","price":"19.99"}]
+[{"id":"123","title":"A Book","imageUrl":"https://requestreduce.org/images/book-image-9.jpg","description":"This is an awesome book!","price":"19.99"},{"title":"Another Book","imageUrl":"http://static.lulu.com/cmsmedia/create-page/create_page_images_book.jpg","description":"Another very amazing product","price":"20.99","id":"0.5628953030389383"}]
